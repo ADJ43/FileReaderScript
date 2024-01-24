@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\bin\Debug\FileReaderScript.exe.config
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\bin\Debug\FileReaderScript.exe
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\bin\Debug\FileReaderScript.pdb
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\obj\Debug\FileReaderScript.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\obj\Debug\FileReaderScript.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\obj\Debug\FileReaderScript.exe
+C:\Users\adjse\source\repos\FileReaderScript\FileReaderScript\obj\Debug\FileReaderScript.pdb
